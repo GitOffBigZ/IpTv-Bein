@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Studio360Visuals-IPTV-Generator">
+
+  <!-- ==================== CHAINES SPORT & DIVERSIFICATION ==================== -->
+  <channel id="beINSports-fr1">
+    <display-name lang="fr">beIN Sports FR 1</display-name>
+    <icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" />
+  </channel>
+  <channel id="beINSports-fr2">
+    <display-name lang="fr">beIN Sports FR 2</display-name>
+    <icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" />
+  </channel>
+  <channel id="BEINSPORTS-FR3">
+    <display-name lang="fr">beIN Sports FR 3</display-name>
+    <icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" />
+  </channel>
+  <channel id="Alkas-1">
+    <display-name lang="fr">Al Kass 1</display-name>
+    <icon src="https://i.imgur.com/DrrlxTO.png" />
+  </channel>
+  <channel id="Alkas-2">
+    <display-name lang="fr">Al Kass 2</display-name>
+    <icon src="https://i.imgur.com/DrrlxTO.png" />
+  </channel>
+  <channel id="Alkas-3">
+    <display-name lang="fr">Al Kass 3</display-name>
+    <icon src="https://i.imgur.com/DrrlxTO.png" />
+  </channel>
+  <channel id="Alkas-4">
+    <display-name lang="fr">Al Kass 4</display-name>
+    <icon src="https://i.imgur.com/DrrlxTO.png" />
+  </channel>
+  <channel id="AD-Sports1">
+    <display-name lang="fr">AD Sports 1</display-name>
+    <icon src="https://i.imgur.com/fBpLsbC.png" />
+  </channel>
+  <channel id="AD-SPORTS2">
+    <display-name lang="fr">AD Sports 2</display-name>
+    <icon src="https://i.imgur.com/ZkuZmIo.png" />
+  </channel>
+  <channel id="AD-Sports3">
+    <display-name lang="fr">AD Sports 3</display-name>
+    <icon src="https://i.imgur.com/ZkuZmIo.png" />
+  </channel>
+  <channel id="DUBAISPORT1">
+    <display-name lang="fr">Dubai Sports 1</display-name>
+    <icon src="https://i.imgur.com/Lv53nh4.png" />
+  </channel>
+  <channel id="DubaiSport-3">
+    <display-name lang="fr">Dubai Sports 3</display-name>
+    <icon src="https://i.imgur.com/Lv53nh4.png" />
+  </channel>
+  <channel id="DUBAISPORT-4">
+    <display-name lang="fr">Dubai Sports 4</display-name>
+    <icon src="https://i.imgur.com/Lv53nh4.png" />
+  </channel>
+  <channel id="EUROSPORT-eng">
+    <display-name lang="fr">Eurosport (English)</display-name>
+    <icon src="https://i.imgur.com/QPpbRcZ.png" />
+  </channel>
+  <channel id="EUROSPORT-1">
+    <display-name lang="fr">Eurosport 1</display-name>
+    <icon src="https://i.imgur.com/QPpbRcZ.png" />
+  </channel>
+  <channel id="EUROSPORT-FR">
+    <display-name lang="fr">Eurosport FR</display-name>
+    <icon src="https://i.imgur.com/QPpbRcZ.png" />
+  </channel>
+
+  <!-- ==================== FILMS & SERIES (OSN / BEIN MOVIES) ==================== -->
+  <channel id="Bein-Movies1">
+    <display-name lang="fr">beIN Movies 1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" />
+  </channel>
+  <channel id="Bein-Movies2">
+    <display-name lang="fr">beIN Movies 2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" />
+  </channel>
+  <channel id="Bein-Movies3">
+    <display-name lang="fr">beIN Movies 3</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" />
+  </channel>
+  <channel id="OSN-MOVIES-ACTION">
+    <display-name lang="fr">OSN Movies Action</display-name>
+    <icon src="https://i.imgur.com/vFOgVbG.png" />
+  </channel>
+  <channel id="OSN-MOVIES-HD">
+    <display-name lang="fr">OSN Movies HD</display-name>
+    <icon src="https://i.imgur.com/vFOgVbG.png" />
+  </channel>
+  <channel id="OSN-MOVIES-DRAMA">
+    <display-name lang="fr">OSN Movies Drama</display-name>
+    <icon src="https://i.imgur.com/vFOgVbG.png" />
+  </channel>
+  <channel id="OSN-MOVIES-premier">
+    <display-name lang="fr">OSN Movies Premier</display-name>
+    <icon src="https://i.imgur.com/vFOgVbG.png" />
+  </channel>
+  <channel id="OSN-MOVIES-Comedy">
+    <display-name lang="fr">OSN Movies Comedy</display-name>
+    <icon src="https://i.imgur.com/vFOgVbG.png" />
+  </channel>
+  <channel id="Rotana-Cinema">
+    <display-name lang="fr">Rotana Cinema</display-name>
+    <icon src="https://i.imgur.com/cTLj7Yt.png" />
+  </channel>
+  <channel id="MBC-2">
+    <display-name lang="fr">MBC 2</display-name>
+    <icon src="https://i.imgur.com/TTAGFHG.png" />
+  </channel>
+  <channel id="MBC-MAX">
+    <display-name lang="fr">MBC Max</display-name>
+    <icon src="https://i.imgur.com/TTAGFHG.png" />
+  </channel>
+  <channel id="MBC-ACTION">
+    <display-name lang="fr">MBC Action</display-name>
+    <icon src="https://i.imgur.com/TTAGFHG.png" />
+  </channel>
+
+  <!-- Programme fictif global pour éviter les alertes de guide vide -->
+  <programme start="20261027000000 +0000" stop="20271231000000 +0000" channel="beINSports-fr1">
+    <title lang="fr">Diffusion en direct - Studio 360 Visuals</title>
+    <desc lang="fr">Programme officiel de lecture IPTV pour Jellyfin.</desc>
+  </programme>
+</tv>
